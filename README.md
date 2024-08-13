@@ -41,7 +41,7 @@
 ---
 <div style="display: flex; justify-content: center; gap: 30px;">
   <img src="https://visitcount.itsvg.in/api?id=Bhargavgk04&icon=3&color=6" alt="Visitor Count" height="30"/>
-  <a href="https://docs.google.com/document/d/1cG4o-uoO7E-g1k0ZVp2BCCMMVoIQK0rPAlysGyoGJuc/edit?usp=sharing">
+  <a href="https://drive.google.com/drive/u/0/folders/1f4pYwOQnmM76tHHfXutNAkk_GCV3dSQj">
     <img src="https://www.downloadclipart.net/medium/46730-resumepng-images.png" height="30" width="70" />
   </a>
 </div>
