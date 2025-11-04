@@ -63,19 +63,19 @@ jobs:
 
           # GitHub username to generate the animation for
 
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: Bhargavgk04
 
 
 
           # Define the output files and their configurations
 
           outputs: |
-
-            dist/github-snake.svg
-
-            dist/github-snake-dark.svg?palette=github-dark
-
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            # Light theme with GitHub greens
+            dist/github-snake.svg?color_snake=#39d353&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            # Dark theme palette
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            # Optional GIF
+            dist/ocean.gif?color_snake=#39d353&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
         env:
 
