@@ -1,6 +1,11 @@
 name: GitHub Snake Game
 
 
+# Explicit permissions so the bot can push to the output branch
+permissions:
+  contents: write
+
+
 
 on:
 
